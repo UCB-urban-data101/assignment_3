@@ -1,6 +1,4 @@
 
-### **Due: Feb 25th, 2025**
-
 # **Assignment 1: Exploring, Ingesting & Analyzing Missing Files in a Dataset**
 
 ## **Objective**
